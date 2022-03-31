@@ -7,7 +7,7 @@ Tecnologias usadas:
 
 -HTML
 -CSS
--Java Script
+
 
 
 
